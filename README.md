@@ -2,7 +2,7 @@
 
 An intelligent web application that predicts hydrogeological formations and water levels to determine construction suitability and recommends optimal drilling methods based on geographic coordinates.
 
-![Dashboard Screenshot](screenshot.png)
+![Dashboard Screenshot](Screenshot 2026-05-12 152444.png)
 
 ## 🌟 Features
 
